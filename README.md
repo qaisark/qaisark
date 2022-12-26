@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [goprogs.com/our-work](https://goprogs.com/our-work)
 
-- 📫 How to reach me **qaisar@goprogs.com**
+<!--- 📫 How to reach me **qaisar@goprogs.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
