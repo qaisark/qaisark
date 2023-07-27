@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [goprogs.com/our-work](https://goprogs.com/our-work)
-
+- 👨‍💻 All of my projects are available at [goprogs.com/our-work](https://goprogs.com/portfolio)
 <!--- 📫 How to reach me **qaisar@goprogs.com** -->
 
 <h3 align="left">Connect with me:</h3>
