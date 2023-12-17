@@ -1,9 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://linkedin.com/in/qaisark" target="_blank">Qaisar</a></h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+<h1 align="center">Hi there, I'm <a href="https://linkedin.com/in/qaisark" target="_blank">Qaisar A.</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaisark&label=Profile%20views&color=0e75b6&style=flat" alt="qaisark" /> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+# 🌱 AI Enthusiast
 
 <!--- 📫 How to reach me **qaisar@goprogs.com** -->
 
