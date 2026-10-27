@@ -1,9 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://linkedin.com/in/qaisark" target="_blank">Qaisar A.</a></h1>
+Part engineer. Part curious mind.
+Full-time explorer of *"what if?"*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qaisark&label=Profile%20views&color=0e75b6&style=flat" alt="qaisark" /> </p>
+Founded [GoProgs](https://goprogs.com), built things from the ground up, and now exploring research at [Uni Jena](https://www.uni-jena.de/en).
 
-# 🌱 AI Enthusiast
-
-<!--- 📫 How to reach me **qaisar@goprogs.com** -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qaisark&" alt="qaisark" /></p>
+From scalable systems to intelligent applications — experimenting with neural networks, LLMs, and whatever sparks curiosity next.
